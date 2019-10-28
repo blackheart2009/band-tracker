@@ -1,5 +1,5 @@
-# band-tracker
-Clash of Clans donation tracker for BAND
+# BandTtracker
+Clash of Clans Donation tracker for BAND
 
 ## Requirements
 
